@@ -45,4 +45,8 @@ contributing to a team that values creativity and problem-solving.
 [Netlify-url]: https://www.netlify.com/
 [Heroku-badge]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 [Heroku-url]: https://www.heroku.com/
+[GCS-badge]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[GCS-url]: https://cloud.google.com/
+[JWT-badge]: https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
+[JWT-url]: https://jwt.io/
 [programista-automatyk-url]: https://www.programista-automatyk.pl/
