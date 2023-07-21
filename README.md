@@ -8,7 +8,7 @@ explore opportunities where I can further utilize and enhance my skills, while
 contributing to a team that values creativity and problem-solving.
 
 ### 👨‍💻 My projects:
-- [https://programista-automatyk.com/](https://programista-automatyk.com/)
+- [https://programista-automatyk.pl/][programista-automatyk-url]
 
 ---
 
@@ -25,4 +25,24 @@ contributing to a team that values creativity and problem-solving.
 | [![Redux][Redux-badge]][Redux-url]                      | A predictable state container for JavaScript apps.                                    |
 | [![Material-UI (Mui)][MUI-badge]][MUI-url]              | A popular React UI framework for building responsive and accessible web applications. |
 
-🌍 My Website: [https://programista-automatyk.com/](https://programista-automatyk.com/)<br>
+🌍 My Website: [https://programista-automatyk.pl/][programista-automatyk-url]<br>
+
+[React-badge]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Node-badge]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/en
+[TypeScript-badge]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
+[Express-badge]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+[Express-url]: https://expressjs.com/
+[MUI-badge]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
+[MUI-url]: https://mui.com/
+[Redux-badge]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[Redux-url]: https://redux.js.org/
+[MongoDB-badge]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
+[Netlify-badge]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+[Netlify-url]: https://www.netlify.com/
+[Heroku-badge]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+[Heroku-url]: https://www.heroku.com/
+[programista-automatyk-url]: https://www.programista-automatyk.pl/
