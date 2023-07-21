@@ -27,6 +27,9 @@ contributing to a team that values creativity and problem-solving.
 
 🌍 My Website: [https://programista-automatyk.pl/][programista-automatyk-url]<br>
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 [React-badge]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Node-badge]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
