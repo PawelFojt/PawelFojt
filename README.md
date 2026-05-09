@@ -1,55 +1,27 @@
-## Hello, I'm Paweł Fojt 👋
+# Hi there, I'm Paweł Fojt 👋
 
-As an experienced automation engineer, I specialize in programming PLC controllers,
-inverters, and operator panels. I am passionate about leveraging my technical skills to
-improve operational efficiency and drive innovation. Outside of my professional role, I
-pursue my interest in coding by developing projects in React and Node.js. I am eager to
-explore opportunities where I can further utilize and enhance my skills, while
-contributing to a team that values creativity and problem-solving.
+## 👨‍💻 About Me
+* I am a Software Developer with a strong background in Industrial Automation.
+* I specialize in backend development using C# and .NET.
+* I bring over 8 years of hands-on experience in the automation industry, including PLC programming, HMI, and machine start-ups.
+* Currently, I work as a Mid C# Developer, where I leverage my unique OT/IT perspective to build efficient, scalable software solutions.
+* I am deeply passionate about integrating industrial protocols and driving digital transformation in manufacturing.
+* I am currently studying Computer Science at WSB University.
 
-### 👨‍💻 My projects:
-- [https://programista-automatyk.pl/][programista-automatyk-url]
+## 🛠️ Tech Stack & Expertise
+* **Languages & Frameworks:** C#, .NET, WPF, ASP.NET Core.
+* **Databases:** SQL Server, SQLite, Azure Cosmos DB.
+* **Tools & Environment:** Git, Docker, Visual Studio, JetBrains Rider.
+* **Industrial Technologies:** OPC UA, S7 Communication Protocol, AAS (Asset Administration Shell).
+* **Automation Hardware:** PLC Programming (Siemens S7-300/S7-1200, Allen Bradley, ABB/WAGO), HMI Development.
 
----
+## 💼 Professional Highlights
+* At EXPLITIA S.A., I develop and maintain industrial software applications for manufacturing environments using the C# and .NET ecosystem.
+* I implement robust communication layers for real-time data acquisition from PLCs, heavily utilizing OPC UA and S7 protocols.
+* I design and manage data persistence using a mix of relational and NoSQL databases like SQL Server, SQLite, and Cosmos DB.
+* I developed a dedicated showcase application demonstrating advanced device integration using AAS, which was presented at Hannover Messe.
+* Previously, I spent 8 years in Industrial Automation (NKT S.A., JSW S.A., JBG-2), designing HMI/SCADA systems, managing production line start-ups, and troubleshooting industrial controllers.
 
-## 🛠️ My skills:
-| Tech                                                    | Description                              |
-| ------------------------------------------------------- | ---------------------------------------- |
-| [![React][React-badge]][React-url]                      | A JavaScript library for building user interfaces   |
-| [![Node.js][Node-badge]][Node-url]                      | A JavaScript runtime environment.                   |
-| [![Express.js][Express-badge]][Express-url]             | A minimalist web application framework for Node.js. |
-| [![MongoDB][MongoDB-badge]][MongoDB-url]                | A NoSQL database used for storing post content.     |
-| [![GCS][GCS-badge]][GCS-url]                            | Cloud-based storage solution for storing images.    |
-| [![JWT][JWT-badge]][JWT-url]                            | JSON Web Tokens for user authentication.            |
-| [![TypeScript][TypeScript-badge]][TypeScript-url]       | A typed superset of JavaScript that compiles to plain JavaScript.                     |
-| [![Redux][Redux-badge]][Redux-url]                      | A predictable state container for JavaScript apps.                                    |
-| [![Material-UI (Mui)][MUI-badge]][MUI-url]              | A popular React UI framework for building responsive and accessible web applications. |
-
-🌍 My Website: [https://programista-automatyk.pl/][programista-automatyk-url]<br>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-[React-badge]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Node-badge]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[Node-url]: https://nodejs.org/en
-[TypeScript-badge]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[TypeScript-url]: https://www.typescriptlang.org/
-[Express-badge]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-[Express-url]: https://expressjs.com/
-[MUI-badge]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
-[MUI-url]: https://mui.com/
-[Redux-badge]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-[Redux-url]: https://redux.js.org/
-[MongoDB-badge]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-[MongoDB-url]: https://www.mongodb.com/
-[Netlify-badge]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-[Netlify-url]: https://www.netlify.com/
-[Heroku-badge]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-[Heroku-url]: https://www.heroku.com/
-[GCS-badge]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[GCS-url]: https://cloud.google.com/
-[JWT-badge]: https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
-[JWT-url]: https://jwt.io/
-[programista-automatyk-url]: https://www.programista-automatyk.pl/
+## 📫 How to reach me
+* **Email:** pwfojt@gmail.com
+* **GitHub:** https://github.com/PawelFojt
